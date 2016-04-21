@@ -54,7 +54,7 @@ def get_xml(resource):
   if is_url:
     return get_from_url(resource)
   return get_from_file(resource)
-    
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument('xml_resource', type=str, help='File name or URL of the XML doc. URLs must start with "http" or "https"')
