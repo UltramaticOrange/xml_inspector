@@ -1,3 +1,1 @@
-# xkcd_news
-ME
-(I may have taken the name of this file too literally)
+ME. (Perhaps I took the name of this file too literally.)
