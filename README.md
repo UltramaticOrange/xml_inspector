@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # xml_inspector
 ## About xml_inspector:
 Displays the basic structure and attributes of a given XML document. This tool is particularly helpful when building XPaths. Note that this tool is not intended to troubleshoot malformed XML.
@@ -98,6 +97,3 @@ Each row has three fields:
 Using the sample output, we can easily build XPaths to the information we want to target. For example, if we wanted to get the age of all the cats, we see that the heiarchy in the XML is `pets`, then `cat`, then age, making the XPath to the age value `/pets/cat/age/text()`.
 
 If we wanted to get all the types of dogs, we can easily see the heiarchy is `pets`, `dog`, and the attribute `type` making the XPath `/pets/dog/@type`
-=======
-ME. (Perhaps I took the name of this file too literally.)
->>>>>>> 24a79e65d1eb7aa3a53a3edbd20f1e51736ac1fe
