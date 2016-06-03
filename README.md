@@ -3,13 +3,13 @@
 Displays the basic structure and attributes of a given XML document. This tool is particularly helpful when building XPaths. Note that this tool is not intended to troubleshoot malformed XML.
 
 ## Basic help information:
-* usage: 
+usage: 
   * xml_inspector.py [-h] xml_resource
 
-* positional arguments:
+positional arguments:
   * xml_resource  File name or URL of the XML doc. URLs must start with "http" or "https"
 
-* optional arguments:
+optional arguments:
   * -h, --help    show this help message and exit
 
 ## Example usage:
