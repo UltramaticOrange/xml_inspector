@@ -1,0 +1,34 @@
+<pets>
+  <cat type="American short hair">
+    <age>7</age>
+    <gender>male</gender>
+    <fixed>true</fixed>
+    <name>Eddie</name>
+    <nickname>Edwardo</nickname>
+    <nickname>Edwardeeto</nickname>
+    <nickname>Edwardoritos</nickname>
+  </cat>
+  <cat type="Calico">
+    <age>5</age>
+    <gender>female</gender>
+    <fixed>true</fixed>
+    <name>Zoe</name>
+    <nickname>Bean</nickname>
+    <nickname>Zoe Bear</nickname>
+  </cat>
+  <cat type="Bombay">
+    <age>6</age>
+    <gender>male</gender>
+    <fixed>true</fixed>
+    <name>Danzig Sparta Warmachine</name>
+    <nickname>Danzig</nickname>
+    <nickname>D</nickname>
+  </cat>
+  <dog type="Mixed">
+    <age>12</age>
+    <gender>female</gender>
+    <fixed>true</fixed>
+    <name>Ebony</name>
+    <nickname>Ebb</nickname>
+  </dog>
+</pets>
